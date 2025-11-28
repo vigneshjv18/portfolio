@@ -1,0 +1,80 @@
+{
+  "profile": {
+    "name": "VIGNESH J",
+    "title": "DATA ENGINEER | 3 YEAR",
+    "summary": "Experienced Data Engineer with deep expertise in Python, data pipeline design, and real-time streaming architectures across Windows and Linux environments. Proficient in developing scalable data systems using Kafka, Airflow, Redis, and gRPC/REST APIs, with hands-on experience in automation, data modeling, and ETL/ELT workflows.",
+    "image": "/profile.jpg",
+    "imageLocation": "Place profile image at: frontend/public/profile.jpg"
+  },
+  "contact": {
+    "phone": "+91 8681089789",
+    "email": "vigneshjv10@gmail.com",
+    "address": "Nagercoil, Kanyakumari -Dt",
+    "linkedin": "https://www.linkedin.com/in/vigneshjv96"
+  },
+  "skills": [
+    "Python (Expert)",
+    "Batch script, power shell",
+    "Windows | Linux",
+    "Flask frame work",
+    "Automation",
+    "GRPC | REST | WebSocket",
+    "Data Structures Algorithm",
+    "Oops",
+    "SQL, MySQL Postgres Cassandra",
+    "Machine Learning",
+    "Kafka, Airflow, Mqtt",
+    "Software package"
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Time Management",
+    "Leadership",
+    "Effective Communication",
+    "Critical Thinking"
+  ],
+  "education": [
+    {
+      "degree": "Master of Engineering Design",
+      "institution": "GCT Coimbatore | Anna University",
+      "year": "2019 - 2021",
+      "details": "CGPA: 8.6 / 10"
+    },
+    {
+      "degree": "Batchelor of Mechanical Engineering",
+      "institution": "Anna University",
+      "year": "2014 - 2018",
+      "details": "CGPA: 7.8 / 10"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Engineer",
+      "company": "",
+      "period": "OCT 2024 - NOV 2025",
+      "description": "Realtime sensor monitoring to the copper-foil manufacturing company, where we used the data pipline mqtt->kafka->redis->grpc which all micro-service run in docker orchestration",
+      "technologies": "Polars, Postgres DB, Delta Lake, Grpc, Websocket, Redis, Docker, Deltalake"
+    },
+    {
+      "role": "Python Automation Engineer",
+      "company": "",
+      "period": "DEC 2023 - OCT 2024",
+      "description": "Created 1020 CAE model for machine learning using automation script and worked on end to end digital twin application to the boiler to optimize the coal and cost of thermal power plant",
+      "technologies": "Flask, Cassandra, Rest, celery, batch script, inno setup"
+    },
+    {
+      "role": "Developer",
+      "company": "",
+      "period": "",
+      "description": "Developed a real-time chat application enabling users to send instant messages, create group chats, and share multimedia content.",
+      "technologies": "Oops, DSA,"
+    }
+  ],
+  "achievements": [
+    "Recognized for academic excellence and maintaining a CGPA of 8.5 in my college.",
+    "Developed Agentic AI for text to sql query generator for multiple databases connections."
+  ],
+  "certifications": [
+    "Google certified python"
+  ]
+}
